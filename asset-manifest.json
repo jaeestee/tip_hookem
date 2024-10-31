@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/tip_hookem/static/css/main.e432a5d9.chunk.css",
-    "main.js": "/tip_hookem/static/js/main.94430d8a.chunk.js",
-    "main.js.map": "/tip_hookem/static/js/main.94430d8a.chunk.js.map",
-    "runtime-main.js": "/tip_hookem/static/js/runtime-main.846fdd05.js",
-    "runtime-main.js.map": "/tip_hookem/static/js/runtime-main.846fdd05.js.map",
-    "static/js/2.6ae75dc0.chunk.js": "/tip_hookem/static/js/2.6ae75dc0.chunk.js",
-    "static/js/2.6ae75dc0.chunk.js.map": "/tip_hookem/static/js/2.6ae75dc0.chunk.js.map",
+    "main.js": "/tip_hookem/static/js/main.2db7d152.chunk.js",
+    "main.js.map": "/tip_hookem/static/js/main.2db7d152.chunk.js.map",
+    "runtime-main.js": "/tip_hookem/static/js/runtime-main.4f41b831.js",
+    "runtime-main.js.map": "/tip_hookem/static/js/runtime-main.4f41b831.js.map",
+    "static/js/2.d52c539f.chunk.js": "/tip_hookem/static/js/2.d52c539f.chunk.js",
+    "static/js/2.d52c539f.chunk.js.map": "/tip_hookem/static/js/2.d52c539f.chunk.js.map",
     "index.html": "/tip_hookem/index.html",
     "static/css/main.e432a5d9.chunk.css.map": "/tip_hookem/static/css/main.e432a5d9.chunk.css.map",
-    "static/js/2.6ae75dc0.chunk.js.LICENSE.txt": "/tip_hookem/static/js/2.6ae75dc0.chunk.js.LICENSE.txt"
+    "static/js/2.d52c539f.chunk.js.LICENSE.txt": "/tip_hookem/static/js/2.d52c539f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.846fdd05.js",
-    "static/js/2.6ae75dc0.chunk.js",
+    "static/js/runtime-main.4f41b831.js",
+    "static/js/2.d52c539f.chunk.js",
     "static/css/main.e432a5d9.chunk.css",
-    "static/js/main.94430d8a.chunk.js"
+    "static/js/main.2db7d152.chunk.js"
   ]
 }
