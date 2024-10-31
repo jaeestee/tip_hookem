@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fake_tip_website/static/css/main.e432a5d9.chunk.css",
+    "main.js": "/fake_tip_website/static/js/main.0ed9e710.chunk.js",
+    "main.js.map": "/fake_tip_website/static/js/main.0ed9e710.chunk.js.map",
+    "runtime-main.js": "/fake_tip_website/static/js/runtime-main.00e90a21.js",
+    "runtime-main.js.map": "/fake_tip_website/static/js/runtime-main.00e90a21.js.map",
+    "static/js/2.9a34f7a4.chunk.js": "/fake_tip_website/static/js/2.9a34f7a4.chunk.js",
+    "static/js/2.9a34f7a4.chunk.js.map": "/fake_tip_website/static/js/2.9a34f7a4.chunk.js.map",
+    "index.html": "/fake_tip_website/index.html",
+    "static/css/main.e432a5d9.chunk.css.map": "/fake_tip_website/static/css/main.e432a5d9.chunk.css.map",
+    "static/js/2.9a34f7a4.chunk.js.LICENSE.txt": "/fake_tip_website/static/js/2.9a34f7a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00e90a21.js",
+    "static/js/2.9a34f7a4.chunk.js",
+    "static/css/main.e432a5d9.chunk.css",
+    "static/js/main.0ed9e710.chunk.js"
+  ]
+}
