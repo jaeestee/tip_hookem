@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "simply a fake website for fake tipping. Used for fun.",
   "main": "index.js",
-  "homepage": "https://jaeestee.github.io/fake_tip_website",
+  "homepage": "https://jaeestee.github.io/tip_hookem",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "react-scripts start",
@@ -18,8 +18,10 @@
     "@types/react-css-modules": "^4.6.5",
     "@types/react-dom": "^18.2.7",
     "@types/react-router-dom": "^5.3.3",
+    "@types/react-signature-canvas": "^1.0.6",
     "gh-pages": "^3.2.3",
-    "prettier": "^3.0.3"
+    "prettier": "^3.0.3",
+    "react-signature-canvas": "^1.0.6"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",

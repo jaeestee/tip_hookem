@@ -1,0 +1,31 @@
+.pad {
+  display: grid;                
+  grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+  gap: 1%;        /* Center buttons in each grid cell */
+}
+
+.numpadbutton {
+  transition-duration: 0.4s;
+  background-color: #cb6015;
+  color: white;
+  font-size: 200%;
+  padding: 5% 1%;
+  border: 2px solid #000; 
+  border-radius: 20px;
+}
+.numpadbutton:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
+}
+
+.input {
+  width: 90%;                  /* Full width */
+  height: 50%;                /* Height of the input field */
+  padding: 2%;               /* Padding inside the input */
+  border: 2px solid #cb6015;   /* Green border */
+  border-radius: 20px;          /* Rounded corners */
+  font-size: 200%;             /* Larger font size */
+  text-align: center;          /* Center text */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+  transition: border-color 0.3s, box-shadow 0.3s; /* Smooth transitions */
+}

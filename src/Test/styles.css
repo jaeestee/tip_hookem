@@ -1,6 +1,6 @@
 .button {
   transition-duration: 0.4s;
-  background-color: lightblue;
+  background-color: #cb6015;
   color: white;
   border: none;
   font-size: 200%;
@@ -9,14 +9,56 @@
 
 .custom_button {
   transition-duration: 0.4s;
-  background-color: lightblue;
+  background-color: #cb6015;
   color: white;
   border: none;
-  font-size: 200%;
-  padding: 5% 33.7%;
+  font-size: 150%;
+  padding: 2% 34.15%;
 }
 .custom_button:hover {
   background-color: #4caf50; /* Green */
+  color: white;
+}
+
+.done_button_custom {
+  transition-duration: 0.4s;
+  background-color: #cb6015;
+  color: white;
+  border: 2px solid #000;
+  border-radius: 20px;
+  font-size: 200%;
+  padding: 2% 30.7%;
+  font-style: 'bold';
+}
+.done_button_custom:hover {
+  background-color: green;
+  color: black;
+}
+
+.done_button {
+  transition-duration: 0.4s;
+  background-color: #cb6015;
+  color: black;
+  border: none;
+  font-size: 100%;
+  padding: 2% 30.7%;
+  font-style: 'bold';
+}
+.done_button:hover {
+  background-color: green;
+  color: white;
+}
+
+.custom_button2 {
+  transition-duration: 0.4s;
+  background-color: #cb6015;
+  color: white;
+  border: none;
+  font-size: 150%;
+  padding: 2% 34.6%;
+}
+.custom_button2:hover {
+  background-color: red; /* Green */
   color: white;
 }
 
@@ -29,9 +71,7 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 300%;
 }
-.padding {
-  padding-bottom: 20%;
-}
+
 .all {
   padding-top: 5%;
   display: inline-block;
